@@ -13,4 +13,4 @@ chmod +x build.sh # Make build script executable
 ```
 
 ## Ressources
-- [GLFW Example Odin](https://github.com/odin-lang/examples/blob/master/glfw/window/simple_window.odin)
+- [Sokol Odin Bindings](https://github.com/floooh/sokol-odin)
