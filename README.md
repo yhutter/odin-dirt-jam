@@ -11,3 +11,6 @@ All you need to do is run the `build.sh` script:
 chmod +x build.sh # Make build script executable
 ./build.sh # Execute build script
 ```
+
+## Ressources
+- [GLFW Example Odin](https://github.com/odin-lang/examples/blob/master/glfw/window/simple_window.odin)
